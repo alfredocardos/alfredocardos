@@ -1,7 +1,7 @@
 ### Hi Guys 👋
 ### My name is Alfredo Henrique  👽 
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN.COM/IN/ALFREDO-HENRIQUE-B5A9A3233)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alfredo-henrique-b5a9a3233)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfredo_cardos/)
 
 ![Alfredo GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredocardos&show_icons=true&theme=dracula)
